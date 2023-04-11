@@ -32,12 +32,19 @@
 
 .correct {
   background-color: #28a745;
+  color: white;
 }
-
+.correct p {
+  color: white;
+}
 .incorrect {
   background-color: #dc3545;
+  color:white;
 }
 
+.incorrect p{
+  color:white;
+}
 .box{
     
     width: 100%;

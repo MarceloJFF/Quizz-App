@@ -49,7 +49,7 @@ h3 {
 
 .wrapper{
   width: 100vw;
-  background-image: url('Teste.jpeg');
+  background-image: url('img/Teste.jpeg');
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: contain;
